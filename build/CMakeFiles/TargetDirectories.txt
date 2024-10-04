@@ -1,0 +1,3 @@
+C:/CppProjects/greeting/build/CMakeFiles/greeting.dir
+C:/CppProjects/greeting/build/CMakeFiles/ALL_BUILD.dir
+C:/CppProjects/greeting/build/CMakeFiles/ZERO_CHECK.dir
